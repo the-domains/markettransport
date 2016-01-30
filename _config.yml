@@ -1,0 +1,28 @@
+name: markettransport
+favicon: null
+layout_spectrum: 0.3953233170323074
+typography_spectrum: 0.6689721886068583
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.02674796641804278
+  lightness: 0.6859243519138545
+  saturation: 0.6972770751453936
+  rhythmicContrast: 0.32601674110628664
+purpose: []
