@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Market Transport]]></title>
         <description><![CDATA[Market Transport]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/markettransport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 16:27:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 16:30:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/markettransport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2016 Calendar]]></title>
-            <description><![CDATA[<article><h1>2016 Calendar</h1><p>February</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/933a34a3-4d76-4486-84fd-8094504647b5.JPG"></article>]]></description>
-            <link>undefined2016-calendar/index.html</link>
+            <description><![CDATA[<article><h1>2016 Calendar</h1><p>February</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/067d1fc23981353f77183ee50220b2139a0dddcf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/markettransport/2016-calendar/index.html</link>
             <guid isPermaLink="false">66c0ed09-059b-415c-ac6b-8a525e78737f</guid>
-            <pubDate>Sat, 30 Jan 2016 16:26:44 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 16:30:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
