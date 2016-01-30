@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://wwin2015.weebly.com/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T05:04:45.277Z'
-dateModified: '2016-01-30T05:01:55.757Z'
+datePublished: '2016-01-30T06:08:22.849Z'
+dateModified: '2016-01-30T06:08:20.072Z'
 author: []
 title: Schedule a pick-up for WWIN
+sourcePath: _posts/2016-01-30-schedule-a-pick-up-for-wwin.md
+published: true
 authors: []
 publisher:
   name: wwin2015.weebly.com
   domain: wwin2015.weebly.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-schedule-a-pick-up-for-wwin.md
-published: true
+url: schedule-a-pick-up-for-wwin/index.html
 _context: 'http://schema.org'
 _type: Article
 
