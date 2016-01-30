@@ -2,7 +2,7 @@ name: markettransport
 favicon: null
 layout_spectrum: 0.93205
 typography_spectrum: 0.46451
-title: Welcome to Market Transport
+title: Market Transport
 collections:
   - index:
       path: /
