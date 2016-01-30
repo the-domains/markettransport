@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T06:08:22.894Z'
-dateModified: '2016-01-30T06:08:20.072Z'
+datePublished: '2016-01-30T06:19:21.134Z'
+dateModified: '2016-01-30T06:19:13.643Z'
 author: []
 title: Schedule a pick-up for WWIN
 sourcePath: _posts/2016-01-30-schedule-a-pick-up-for-wwin.md
@@ -23,8 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2027e5f7eacefd56e1aaaea20dd3a7fabfa5aea.jpg)
-
-# Schedule a [pick-up][0] for WWIN
+## [Schedule a pick-up for WWIN][0]
 
 [0]: https://www.timetrade.com/book/BDJDN
