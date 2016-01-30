@@ -1,5 +1,8 @@
+name: markettransport
+favicon: null
+layout_spectrum: 0.93205
+typography_spectrum: 0.39081
 title: Market Transport
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6972770751453936
-  brandStrength: 0.4976105
-  lightness: 0.6859243519138545
   brandColors:
     - '#0D0B0E'
     - '#A4A2A2'
     - '#787677'
     - '#D9D5D0'
     - '#FFFFFF'
+  brandStrength: 0.4976105
+  lightness: 0.6859243519138545
+  saturation: 0.6972770751453936
   rhythmicContrast: 0.3260167411062866
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: markettransport
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6689721886068583
-layout_spectrum: 0.93205
+purpose: []
