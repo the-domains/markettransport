@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Market Transport]]></title>
+        <description><![CDATA[Market Transport]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 16:27:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016 Calendar]]></title>
+            <description><![CDATA[<article><h1>2016 Calendar</h1><p>February</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/933a34a3-4d76-4486-84fd-8094504647b5.JPG"></article>]]></description>
+            <link>undefined2016-calendar/index.html</link>
+            <guid isPermaLink="false">66c0ed09-059b-415c-ac6b-8a525e78737f</guid>
+            <pubDate>Sat, 30 Jan 2016 16:26:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
