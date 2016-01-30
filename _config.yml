@@ -1,5 +1,8 @@
+name: markettransport
+favicon: null
+layout_spectrum: 0.4844683
+typography_spectrum: 0.6689721886068583
 title: Market Transport
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6972770751453936
-  brandStrength: 0.4976105
-  rhythmicContrast: 0.3260167411062866
   brandColors:
     - '#0D0B0E'
     - '#A4A2A2'
     - '#787677'
     - '#D9D5D0'
     - '#FFFFFF'
+  brandStrength: 0.4976105
   lightness: 0.6859243519138545
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: markettransport
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6689721886068583
-layout_spectrum: 0.4844683
+  saturation: 0.625
+  rhythmicContrast: 0.25
+purpose: []
