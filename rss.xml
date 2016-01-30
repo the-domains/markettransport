@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Market Transport]]></title>
         <description><![CDATA[Market Transport]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/markettransport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 04:22:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 04:35:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/markettransport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Womens Wear In Nevada]]></title>
-            <description><![CDATA[<article><h1>Womens Wear In Nevada</h1><p>Schedule a pick-up for the WWIN show here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcf4a2aa5727b11c128614d0e1f83eb0b868285f.jpg"></article>]]></description>
-            <link>undefinedwomens-wear-in-nevada/index.html</link>
+            <title><![CDATA[Schedule a pick-up for the WWIN show here]]></title>
+            <description><![CDATA[<article><h1>Schedule a pick-up for the WWIN show here</h1><p>Womens Wear In Nevada</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63bd686b3389e805421f0cfdef44ffa52c7a4398.jpg"></article>]]></description>
+            <link>https://thegrid.ai/markettransport/womens-wear-in-nevada/index.html</link>
             <guid isPermaLink="false">9b552520-8162-4e0b-8de6-7ea65627a6fe</guid>
-            <pubDate>Sat, 30 Jan 2016 04:22:00 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 04:34:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
