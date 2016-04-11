@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-11T06:34:00.398Z'
-dateModified: '2016-04-11T06:33:34.353Z'
+datePublished: '2016-04-11T06:34:25.890Z'
+dateModified: '2016-04-11T06:34:03.400Z'
 title: Rent Rolling Racks
 author: []
 sourcePath: _posts/2016-04-11-rent-rolling-racks.md
