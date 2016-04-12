@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Please select the show you would like to ship to:'
-datePublished: '2016-04-11T15:22:17.091Z'
-dateModified: '2016-04-11T06:50:00.671Z'
+datePublished: '2016-04-12T00:08:06.971Z'
+dateModified: '2016-04-12T00:06:35.182Z'
 title: Ship with us
 author: []
 sourcePath: _posts/2016-04-11-schedule-shipping.md
