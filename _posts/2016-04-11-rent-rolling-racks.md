@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T02:23:17.061Z'
-dateModified: '2016-04-12T02:22:07.908Z'
+datePublished: '2016-04-12T02:25:31.269Z'
+dateModified: '2016-04-12T02:24:53.709Z'
 title: Rent rolling racks
 author: []
 sourcePath: _posts/2016-04-11-rent-rolling-racks.md
@@ -22,4 +22,4 @@ url: rent-rolling-racks/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaa693cf-c2a0-4b50-8d0d-927d48c73e7f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f2ae5dcc1867cd7595fc9fd078449e663d83a02.jpg)
