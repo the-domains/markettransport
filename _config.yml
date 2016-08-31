@@ -28,6 +28,9 @@ navigation:
   - name: Ship with us
     url: 'https://markettransport.typeform.com/to/vZKrgj'
     type: external
+  - name: Rent rolling racks
+    url: 'https://markettransport.typeform.com/to/wJ4ZeA'
+    type: external
 favicon: null
 collections:
   - index:
