@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: markettransport
+name: Market Exhibitor Services
 cta:
   domain: null
   bucket: null
@@ -45,4 +45,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Market Transport
+description: Market Exhibitor Services
 purpose: []
