@@ -1,4 +1,3 @@
-layout_spectrum: 0.6095398815814406
 typography_spectrum: 0.8525439179502428
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6095398815814406
 analytics:
   google: null
   facebook: null
@@ -55,5 +55,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Market Transport
-description: Market Exhibitor Services
+description: market exhibitor services
 purpose: []
