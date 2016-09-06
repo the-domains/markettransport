@@ -1,4 +1,3 @@
-layout_spectrum: 0.35585826565511525
 typography_spectrum: 0.2386734124738723
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.35585826565511525
 analytics:
   google: null
   facebook: null
@@ -51,6 +51,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: MarketX
+title: Market Transport
 description: Market Exhibitor Services
 purpose: []
