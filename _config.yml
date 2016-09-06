@@ -1,4 +1,3 @@
-layout_spectrum: 0.8890799053478986
 typography_spectrum: 0.38908501248806715
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8890799053478986
 analytics:
   google: null
   facebook: null
@@ -35,6 +35,9 @@ navigation:
     url: >-
       https://calendar.google.com/calendar/embed?src=markettransport%40gmail.com&ctz=America/Los_Angeles
     type: external
+  - name: Contact
+    id: 9b0e64a3-3eda-4ba5-9197-3e0034684f36
+    type: content
 favicon: null
 collections:
   - index:
