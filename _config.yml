@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Market Exhibitor Services
+name: Home
 cta:
   domain: null
   bucket: null
@@ -52,5 +52,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Market Exhibitor Services
-description: ''
+description: Market Exhibitor Services
 purpose: []
