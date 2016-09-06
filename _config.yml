@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Home
-    url: 'https:thegrid.ai/markettransport'
-    type: external
   - name: Ship with us
     url: 'https://markettransport.typeform.com/to/vZKrgj'
     type: external
