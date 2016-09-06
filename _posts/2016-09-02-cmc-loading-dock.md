@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-09-02T22:14:09.392Z'
+datePublished: '2016-09-02T22:16:12.116Z'
+sourcePath: _posts/2016-09-02-cmc-loading-dock.md
 author: []
 via: {}
-dateModified: '2016-09-02T22:13:48.324Z'
+dateModified: '2016-09-02T22:16:11.423Z'
 title: ''
 publisher: {}
 description: CMC Loading Dock
 starred: false
-sourcePath: _posts/2016-09-02-cmc-loading-dock.md
 inFeed: true
 hasPage: true
 inNav: false
